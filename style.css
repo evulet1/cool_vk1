@@ -1,0 +1,36 @@
+html, body, .row {
+   background-color: #4a76a8;
+    margin: 0px;
+    color: #fff;
+}
+.container{
+    margin-left: 0px;
+    margin-right: 10px;
+    max-width: 100%;
+}
+.logo img{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    height: 60px;
+    border-radius: 3px;
+}
+.list-group, .tab-content{
+    padding-left: -15px;
+    margin-left: -14px;
+    margin-right: -14px;
+
+}
+.list-group-item.active {
+    background-color: #4a76a8;
+    border-color: #fff;
+}
+.btn-vk{
+    border-color: #fff;
+    color: #fff;
+    background-color: #5181b8;
+    border-radius: 3px;
+    margin-top: -5px;
+}
+.sid{
+    margin-top: 10px;
+}
